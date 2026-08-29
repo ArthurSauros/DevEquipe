@@ -1,3 +1,8 @@
 # DevEquipe
-Ryan, Regina, Gabriel, Arthur
+
+Ryan, Reginamain, Gabriel, Arthur
 Arthur
+=======
+- Ryan, Regina, Gabriel, Arthur
+Ryan
+
