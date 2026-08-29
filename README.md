@@ -1,8 +1,10 @@
 # DevEquipe
 
-Ryan, Reginamain, Gabriel, Arthur
-Arthur
-=======
 - Ryan, Regina, Gabriel, Arthur
 Ryan
+regina 
+Arthur
+Ryan
+Gabriel
+equipe dos entrosa
 
